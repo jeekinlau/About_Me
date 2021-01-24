@@ -8,8 +8,8 @@
 		Currently, my PhD program involves the development of Tetraploid Garden rose bi-parental mapping populations used for the study of disease and architectural traits. 
 		
 ## Links
-*[Twitter](https://twitter.com/jeekinlau)
-*[Instagram](https://www.instagram.com/jeekinlau/)
+* [Twitter](https://twitter.com/jeekinlau)
+* [Instagram](https://www.instagram.com/jeekinlau/)
 	
 	
 
