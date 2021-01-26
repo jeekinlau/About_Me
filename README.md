@@ -5,7 +5,7 @@
 ## Bio:
 I am a PhD candidate at Texas A&M University in the Horticultural Sciences Department. I got my B.S. and M.S. at Auburn University in the Department of Horticulture. My emphasis of study in my B.S. was Fruit and Vegetable Production and in my M.S. program I worked for a pesticide efficacy lab. Currently, my PhD program involves the development of Tetraploid Garden rose bi-parental mapping populations used for the study of disease and architectural traits. 
 
-## [Link to CV](https://jeekinlau.github.io/About_Me/Jeekin_Lau_CV.pdf)
+			[Link to CV](https://jeekinlau.github.io/About_Me/Jeekin_Lau_CV.pdf)
 
 ## Research Interests
 Previous research interests in my Master's Degree, I focused on the peseticide efficacy of many herbicides, fungicides, and insecticides. The type of research I was extensively involved in was the application of the pesticide, followed by the evaluation of plant health, insect larva and adult counts, phyto-toxicity, and harvest data.
