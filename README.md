@@ -10,7 +10,7 @@ I am a postdoc  at Texas A&M University in the Horticultural Sciences Department
 ## Research Interests
 Previous research interests in my Master's Degree, I focused on the pesticide efficacy of many herbicides, fungicides, and insecticides. The type of research I was extensively involved in was the application of the pesticide, followed by the evaluation of plant health, insect larva and adult counts, phyto-toxicity, and harvest data.
    
-Currently, I during my PhD program, I have developed two tetraploid garden rose bi-parental mapping populations which were used for the study of disease (black spot, cercospora, rose rosette, and defoliation) and architectural traits (primary shoots, plant size, apical dominance). These populations were genotyped with the WagRhSNP 68k Axiom array. Linkage maps were constructed and QTL studies were done with the aforementioned traits. Both GWAS-like (Single marker regression) and interval mapping methods were used for QTL scans.  
+During my PhD, I developed two tetraploid garden rose bi-parental mapping populations which were used for the study of disease (black spot, cercospora, rose rosette, and defoliation) and architectural traits (primary shoots, plant size, apical dominance). These populations were genotyped with the WagRhSNP 68k Axiom array. Linkage maps were constructed and QTL studies were done with the aforementioned traits. Both GWAS-like (Single marker regression) and interval mapping methods were used for QTL scans.  
   
 Interests include using new and multiple computational tools to look at the genotypic and phenotypic data collected on these two mapping populations.
   
