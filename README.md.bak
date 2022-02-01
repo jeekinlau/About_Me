@@ -18,8 +18,9 @@ During my PhD, I developed two tetraploid garden rose bi-parental mapping popula
            
 ### Postdoc, Texas A&M Univeristy, Department of Horticultural Sciences	
 During my postdoc at Texas A&M Univeristy, I was tasked with comparing many new genetic tools developed as a part of a USDA SCRI "Tools for Polyploids" Grant No. 2020-51181-32156
-  
-##Software List previously used:  
+       
+	   
+##Software List previously used
 * [fitPoly](https://cran.r-project.org/web/packages/fitPoly/index.html)
 * [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html)
 * [TetraploidSNPMap](https://www.bioss.ac.uk/knowledge/tetraploidmap/)
