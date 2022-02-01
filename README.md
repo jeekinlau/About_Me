@@ -16,10 +16,10 @@ For my Master's Thesis I investigated the use of industrial sweetpotato's fermen
 ### PhD, Texas A&M Univeristy, Department of Horticultural Sciences			 
 During my PhD, I developed two tetraploid garden rose bi-parental mapping populations which were used for the study of disease (black spot, cercospora, rose rosette, and defoliation) and architectural traits (primary shoots, plant size, apical dominance). These populations were genotyped with the WagRhSNP 68k Axiom array. Linkage maps were constructed and QTL studies were done with the aforementioned traits. Both GWAS-like (Single marker regression) and interval mapping methods were used for QTL scans. My PhD work was funded by United States Department of Agriculture, Specialty Crops Research Initiative (USDA, SCRI) grant “Combatting Rose Rosette Disease: Short and Long Term Approaches” Grant No. 2014-51181-22644
            
-#### Postdoc, Texas A&M Univeristy, Department of Horticultural Sciences	
+### Postdoc, Texas A&M Univeristy, Department of Horticultural Sciences	
 During my postdoc at Texas A&M Univeristy, I was tasked with comparing many new genetic tools developed as a part of a USDA SCRI "Tools for Polyploids" Grant No. 2020-51181-32156
   
-Software List previously used:  
+##Software List previously used:  
 * [fitPoly](https://cran.r-project.org/web/packages/fitPoly/index.html)
 * [polymapR](https://cran.r-project.org/web/packages/polymapR/index.html)
 * [TetraploidSNPMap](https://www.bioss.ac.uk/knowledge/tetraploidmap/)
