@@ -20,9 +20,9 @@ During my PhD, I developed two tetraploid garden rose bi-parental mapping popula
 During my postdoc at Texas A&M Univeristy, I was tasked with comparing many new genetic tools developed as a part of a USDA SCRI "Tools for Polyploids" Grant No. 2020-51181-32156
        
 ## Publications
-[Rose Rosette Disease Resistance Loci Detected in Two Interconnected Tetraploid Garden Rose Populations](https://www.frontiersin.org/articles/10.3389/fpls.2022.916231/full)
-[Identification of QTLs for Reduced Susceptibility to Rose Rosette Disease in Diploid Roses](https://www.mdpi.com/2076-0817/11/6/660)
-[VIEWpoly: a visualization tool to integrate and explore results of polyploid genetic analysis](https://joss.theoj.org/papers/10.21105/joss.04242)
+[Rose Rosette Disease Resistance Loci Detected in Two Interconnected Tetraploid Garden Rose Populations](https://www.frontiersin.org/articles/10.3389/fpls.2022.916231/full)     
+[Identification of QTLs for Reduced Susceptibility to Rose Rosette Disease in Diploid Roses](https://www.mdpi.com/2076-0817/11/6/660)        
+[VIEWpoly: a visualization tool to integrate and explore results of polyploid genetic analysis](https://joss.theoj.org/papers/10.21105/joss.04242)      
 
 
 ## Software List previously used:
